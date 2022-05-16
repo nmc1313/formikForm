@@ -1,6 +1,13 @@
 # formikForm
 
-## How to use: 
-```npm install```
+## How to Clone: 
+```
+git clone https://github.com/nmc1313/formikForm.git
+```
 
-```npm start```
+## How to use: 
+```
+npm install
+
+npm start
+```
